@@ -1,11 +1,7 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
-
-
-<h2>Hi folks! I'm Kalid 👋</h2>
+ <h2>Hi folks! I'm Kalid 👋</h2>
 <h3>I'm an investment analyst with 8 years of experience in frontier markets. I love tech and currently transitioning to become a software developer. </h3>
+</div>
 
 - 🌱 I’m currently learning the MERN stack to become a full-stack web developer
 - 💲 Fintech is a natural career progression for me, happy to explore discussions and opportunities
@@ -29,5 +25,9 @@
 
 <br/>
 <h3>:fire: My Stats : </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kalidjamie21&theme=radical)](https://git.io/streak-stats)
 
+![Kalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalidjamie21&theme=radical&show_icons=true)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kalidjamie21&theme=radical" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidjamie21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
