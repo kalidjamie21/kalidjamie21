@@ -26,8 +26,6 @@
 <br/>
 <h3>:fire: My Stats : </h3>
 
-![Kalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalidjamie21&theme=radical&show_icons=true)
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kalidjamie21&theme=radical" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidjamie21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
