@@ -1,12 +1,3 @@
-<div id="header" align="left">
- <h2>Hi folks! I'm Kalid 👋</h2>
-<h3>I'm an investment analyst with 8 years of experience in frontier markets. I love tech and currently transitioning to become a software developer. </h3>
-</div>
-
-- 🌱 I’m currently learning the MERN stack to become a full-stack web developer
-- 💲 Fintech is a natural career progression for me, happy to explore discussions and opportunities
-- 📫 Check out my <a href="https://www.linkedin.com/in/kalidjamie/">Linkedin Page</a>
-
 <br/>
 <h3>:hammer_and_wrench: Languages and Tools : </h3>
 <div>
