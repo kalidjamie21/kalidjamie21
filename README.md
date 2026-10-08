@@ -12,10 +12,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
-
-<br/>
-<h3>:fire: My Stats : </h3>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kalidjamie21&theme=radical" alt="GitHub Streak" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidjamie21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
