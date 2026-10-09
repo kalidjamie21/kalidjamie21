@@ -1,4 +1,4 @@
-On a journey to become dangerous at understanding systems, not world-class at centering <div> elements.
+On a journey to become dangerous at understanding systems, not world-class at centering 'div' elements.
 
 
 <br/>
