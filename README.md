@@ -1,3 +1,6 @@
+On a journey to become dangerous at understanding systems, not world-class at centering <div> elements.
+
+
 <br/>
 <h3>:hammer_and_wrench: Languages and Tools : </h3>
 <div>
